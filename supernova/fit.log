@@ -1,0 +1,1336 @@
+
+
+*******************************************************************************
+Wed Apr  4 18:39:19 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Wed Apr  4 18:39:39 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 94.4441           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.1434
+
+initial set of free parameter values
+
+f0              = 15.82
+gamma           = 0.0138
+g0              = -2.61
+t0              = 9686.05
+sig0            = 17.19
+tau             = 9664.69
+theta           = 3.4
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.89117
+rel. change during last iteration : -8.77725e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.559674
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.313235
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.5633          +/- 7.032e+06    (5.184e+07%)
+gamma           = 0.0400578        +/- 0.003674     (9.172%)
+g0              = -1.24864         +/- 7.552e+15    (6.048e+17%)
+t0              = 9686.93          +/- 1.755e+08    (1.812e+06%)
+sig0            = 17.2662          +/- 9.929e+16    (5.75e+17%)
+tau             = 9664.61          +/- 0.06656      (0.0006887%)
+theta           = 3.89401          +/- 0.5612       (14.41%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.151  1.000 
+g0              0.002  0.111  1.000 
+t0              1.000 -0.151  0.002  1.000 
+sig0           -0.002 -0.111 -1.000 -0.002  1.000 
+tau            -0.030  0.074 -0.193 -0.030  0.193  1.000 
+theta          -0.129  0.388 -0.476 -0.129  0.476  0.117  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 19:29:30 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 19.6737           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 15.94
+
+initial set of free parameter values
+
+f0              = 13.5633
+gamma           = 0.0400578
+g0              = -1.24864
+t0              = 9686.93
+sig0            = 17.2662
+tau             = 9664.61
+theta           = 3.89401
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 0.0230743
+rel. change during last iteration : -2.55632e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0323857
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00104883
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 15.5416          +/- 0.03609      (0.2322%)
+gamma           = 0.0138117        +/- 0.0004907    (3.553%)
+g0              = -2.45658         +/- 0.0345       (1.405%)
+t0              = 9686.83          +/- 0.4351       (0.004491%)
+sig0            = 16.1969          +/- 0.5115       (3.158%)
+tau             = 9664.61          +/- 0.004928     (5.099e-05%)
+theta           = 3.32811          +/- 0.08947      (2.688%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.941  1.000 
+g0             -0.929  0.862  1.000 
+t0             -0.183  0.308  0.054  1.000 
+sig0            0.433 -0.497 -0.247 -0.915  1.000 
+tau             0.028 -0.087 -0.004 -0.492  0.431  1.000 
+theta           0.041 -0.145  0.046 -0.933  0.844  0.486  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:23:31 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.72756e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3670.74
+
+initial set of free parameter values
+
+f0              = 1
+gamma           = 1
+g0              = 1
+t0              = 1
+sig0            = 1
+tau             = 1
+theta           = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 49.0257
+rel. change during last iteration : -3.63515e-06
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.4928
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.22844
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Wed Apr  4 21:26:55 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8413.47           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 16.3063
+
+initial set of free parameter values
+
+f0              = 0.999812
+gamma           = 0.5
+g0              = -4
+t0              = 9685.3
+sig0            = 25
+tau             = 9635
+theta           = 10
+
+After 39 iterations the fit converged.
+final sum of squares of residuals : 0.0519091
+rel. change during last iteration : -8.06335e-06
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485747
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0023595
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256365        +/- 0.007628     (29.75%)
+g0              = -6.11433         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:27 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519091         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256365
+g0              = -6.11433
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.051909
+rel. change during last iteration : -1.11332e-06
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485747
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0023595
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256364        +/- 0.007628     (29.75%)
+g0              = -6.11433         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:28 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.051909          delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256364
+g0              = -6.11433
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.051909
+rel. change during last iteration : -8.10646e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485747
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0023595
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256365        +/- 0.007628     (29.75%)
+g0              = -6.11434         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:29 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.051909          delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256365
+g0              = -6.11434
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519089
+rel. change during last iteration : -6.58412e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485747
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0023595
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256366        +/- 0.007628     (29.75%)
+g0              = -6.11434         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:30 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519089         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256366
+g0              = -6.11434
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519089
+rel. change during last iteration : -5.3497e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0023595
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256367        +/- 0.007628     (29.75%)
+g0              = -6.11434         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:31 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519089         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256367
+g0              = -6.11434
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519089
+rel. change during last iteration : -4.34859e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256367        +/- 0.007628     (29.75%)
+g0              = -6.11435         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:31 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519089         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256367
+g0              = -6.11435
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519089
+rel. change during last iteration : -3.5366e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256368        +/- 0.007628     (29.75%)
+g0              = -6.11435         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:32 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519089         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256368
+g0              = -6.11435
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -2.8779e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6506          +/- 1.21         (8.864%)
+gamma           = 0.0256369        +/- 0.007628     (29.75%)
+g0              = -6.11435         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:32 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6506
+gamma           = 0.0256369
+g0              = -6.11435
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -2.34347e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256369        +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:33 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256369
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -1.90979e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.025637         +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:33 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.025637
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -1.5578e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.025637         +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:34 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.025637
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -1.27206e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.025637         +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:34 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.025637
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -1.04003e-07
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256371        +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:35 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256371
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -8.51572e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256371        +/- 0.007628     (29.75%)
+g0              = -6.11436         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:35 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256371
+g0              = -6.11436
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -6.98457e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256371        +/- 0.007628     (29.75%)
+g0              = -6.11437         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:36 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256371
+g0              = -6.11437
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -5.74017e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256372        +/- 0.007628     (29.75%)
+g0              = -6.11437         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:36 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256372
+g0              = -6.11437
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -4.72844e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256372        +/- 0.007628     (29.75%)
+g0              = -6.11437         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:37 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256372
+g0              = -6.11437
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -3.90555e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256372        +/- 0.007628     (29.75%)
+g0              = -6.11437         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
+
+
+*******************************************************************************
+Wed Apr  4 21:35:37 2018
+
+
+FIT:    data read from 'SN1994aeBdata.dat' u 1:2
+        format = x:z
+        #datapoints = 29
+        residuals are weighted equally (unit weight)
+
+function used for fitting: mag(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.0519088         delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 21.3521
+
+initial set of free parameter values
+
+f0              = 13.6505
+gamma           = 0.0256372
+g0              = -6.11437
+t0              = 9672.28
+sig0            = 26.0608
+tau             = 9648.58
+theta           = 34.1494
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0.0519088
+rel. change during last iteration : -3.23594e-08
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0485746
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00235949
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+f0              = 13.6505          +/- 1.21         (8.864%)
+gamma           = 0.0256372        +/- 0.007628     (29.75%)
+g0              = -6.11437         +/- 0.2665       (4.359%)
+t0              = 9672.28          +/- 1.878        (0.01942%)
+sig0            = 26.0608          +/- 2.171        (8.33%)
+tau             = 9648.58          +/- 0.8985       (0.009312%)
+theta           = 34.1494          +/- 8.602        (25.19%)
+
+
+correlation matrix of the fit parameters:
+
+               f0     gamma  g0     t0     sig0   tau    theta  
+f0              1.000 
+gamma          -0.998  1.000 
+g0              0.334 -0.278  1.000 
+t0              0.429 -0.381  0.964  1.000 
+sig0           -0.794  0.757 -0.819 -0.876  1.000 
+tau            -0.017 -0.026 -0.884 -0.876  0.554  1.000 
+theta          -0.997  0.993 -0.320 -0.402  0.784 -0.024  1.000 
